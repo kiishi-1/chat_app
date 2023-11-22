@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "461165842103",
+    "project_id": "kiishi-chat-app",
+    "storage_bucket": "kiishi-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461165842103:android:07617578b5f25c46290732",
+        "android_client_info": {
+          "package_name": "com.kiishi.flutter_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461165842103-pn9aenp026hjf62pk5886idtc6jecj1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxPW88xfAj14YqQzorQTyyOu6_RdLIwa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461165842103-pn9aenp026hjf62pk5886idtc6jecj1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
